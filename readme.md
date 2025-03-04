@@ -9,7 +9,7 @@ I started coding when I was around 14, only within the last year have I gotten i
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [cannonball361@gmail.com](mailto:cannonball361@gmail.com)
 * 🚀  I'm currently working on [QuadBit](http://quadbit.dev)
-* 🧠  I'm learning Appwrite
+* 🧠  I'm learning Python
 
 ### Skills
 
